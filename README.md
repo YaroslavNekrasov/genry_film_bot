@@ -83,7 +83,7 @@ logging.info(f"Received message: {message.text} from {message.from_user.username
 
 1. Запустите скрипт:
    ```bash
-   python бот.py
+   python bot.py
    ```
 2. Если бот успешно запущен, в консоли отобразится сообщение:
    ```
